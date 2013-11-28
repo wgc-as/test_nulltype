@@ -1,4 +1,8 @@
 TestNulltype::Application.routes.draw do
+  root 'demo#index'
+  get '/eula1' => 'demo#eula1'
+  get '/eula2' => 'demo#eula2'
+  get '/eula3' => 'demo#eula3'
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 

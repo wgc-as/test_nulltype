@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-TestNulltype::Application.config.secret_key_base = 'bfa519fca81df2c851f38a24f3f377245d7d1936f5b50dfc65975bb3bfbd8dc36e50d6e65b83ca11f8c44bb12cc4734a68d237e38cd7a8f756f3ca94dee329e5'
+TestNulltype::Application.config.secret_key_base = '9063c706708bfdcb975a6962ad0059b28326cbc0eaf60b92f16eed81c2a47d60ca89809de0f450c83242dbfa42a310a3934e5fb5395b19c4b368243f928f0d06'
